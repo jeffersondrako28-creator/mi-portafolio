@@ -1,3 +1,4 @@
+<section id="tecnologias" className="..."></section>
 import {
   FaHtml5,
   FaCss3Alt,
