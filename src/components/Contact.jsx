@@ -98,7 +98,7 @@ function Contact() {
               </div>
 
               <div className="flex items-center gap-4">
-                <FaWhatsapp className="text-violet-400 text-2xl" />
+                <FaWhatsapp className="text-green-500 text-2xl" />
 
                 <div>
                   <p className="text-gray-400 text-sm">
@@ -109,7 +109,7 @@ function Contact() {
                     href="https://wa.me/51970397656"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="hover:text-gray-400 transition"
+                    className="hover:text-green-400 transition"
                   >
                     +51 970 397 656
                   </a>
@@ -117,7 +117,7 @@ function Contact() {
               </div>
 
               <div className="flex items-center gap-4">
-                <MdLocationOn className="text-violet-400 text-2xl" />
+                <MdLocationOn className="text-red-400 text-2xl" />
 
                 <div>
                   <p className="text-gray-400 text-sm">
@@ -147,7 +147,7 @@ function Contact() {
                 href="https://www.linkedin.com/in/jefferson-añanka/"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-3xl hover:text-violet-400 transition"
+                className="text-3xl hover:text-blue-400 transition"
               >
                 <FaLinkedin />
               </a>
@@ -163,7 +163,7 @@ function Contact() {
                 href="https://wa.me/51970397656"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-3xl hover:text-violet-500 transition"
+                className="text-3xl hover:text-green-500 transition"
               >
                 <FaWhatsapp />
               </a>

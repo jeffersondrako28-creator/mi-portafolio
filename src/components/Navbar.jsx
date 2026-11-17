@@ -29,15 +29,6 @@ function Navbar() {
             </a>
           </li>
 
-        <li>
-            <a
-              href="#tecnologias"
-              className="hover:text-violet-400 transition duration-300"
-            >
-              Tecnologias
-            </a>
-          </li>
-
           <li>
             <a
               href="#proyectos"
